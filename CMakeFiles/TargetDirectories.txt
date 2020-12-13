@@ -1,0 +1,3 @@
+/home/sonha/DemoCodeCMamke/CMakeFiles/rebuild_cache.dir
+/home/sonha/DemoCodeCMamke/CMakeFiles/edit_cache.dir
+/home/sonha/DemoCodeCMamke/CMakeFiles/hello.dir
